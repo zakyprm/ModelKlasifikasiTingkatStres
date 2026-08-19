@@ -1,0 +1,4 @@
+,precision,recall,f1-score,support
+Rendah,0.8182,0.8182,0.8182,22.0
+Sedang,0.8182,0.9231,0.8675,39.0
+Tinggi,0.8125,0.619,0.7027,21.0

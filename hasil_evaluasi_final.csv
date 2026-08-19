@@ -1,0 +1,5 @@
+Metrik,Nilai,Nilai (%)
+Accuracy,0.8170731707317073,81.71
+Precision (Macro),0.8162878787878789,81.63
+Recall (Macro),0.7867687867687868,78.68
+F1-Score (Macro),0.7961181334675311,79.61

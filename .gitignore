@@ -1,0 +1,7 @@
+.venv/
+.vscode/
+indobert_hasil_skripsi/
+model_final_skripsi/
+tmp_seed_*/
+__pycache__/
+*.pyc
